@@ -14,7 +14,6 @@ else
     mkdir -p "$WINEPREFIX"
 fi
 
-
 if [ "$1" == "" ]
 then
     echo "Usage: $0 <EXECUTABLE>"
